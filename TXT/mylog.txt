@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 120 L88 Bench Pressed 60kg!
+ZCZC W04 30 L12 PBP Tugas Individu 5
+ZCZC W04 300 L11 SDA TP 1
 ZCZC W03 120 L88 Cardio workout!
 ZCZC W03 20 L09 Weekly Assignments
 ZCZC W03 45 L82 Reading Book (online)
