@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 100 L02 Offline class session
+ZCZC W05 60 L05 Quiz related included studying
+ZCZC W05 120 L09 Assignment
+ZCZC W05 45 L06 Browsing and GSGS
 ZCZC W04 120 L88 Bench Pressed 60kg!
 ZCZC W04 30 L12 PBP Tugas Individu 5
 ZCZC W04 300 L11 SDA TP 1

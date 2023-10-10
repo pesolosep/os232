@@ -26,5 +26,11 @@ The basic and function of mounting a file system is explained here, mounting != 
 This video will give you an overview of the top-level directories found on most Linux systems.
 * [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw),---
 Ever get confused where to find things in Linux and where programs get installed? this video will explain what all the folders are for, and what's in them!
+
+#WEEK 05
+*[Memory Management in Linux Operating System | Linux Case Study](https://www.youtube.com/watch?v=ZFw6u11rOfo),---
+This video will help and discuss about how Physical memory and Virtual Memory is managed in a linux operating system.
+*[Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8),---
+This video will explain about what is a virtual memory. Indirection between the program's addresses and the RAM addresses. Mapping disk space into memory. Using indirection for program security and isolation.
 <br>
 <hr>
