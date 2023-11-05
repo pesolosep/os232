@@ -28,9 +28,16 @@ This video will give you an overview of the top-level directories found on most 
 Ever get confused where to find things in Linux and where programs get installed? this video will explain what all the folders are for, and what's in them!
 
 #WEEK 05
-*[Memory Management in Linux Operating System | Linux Case Study](https://www.youtube.com/watch?v=ZFw6u11rOfo),---
+* [Memory Management in Linux Operating System | Linux Case Study](https://www.youtube.com/watch?v=ZFw6u11rOfo),---
 This video will help and discuss about how Physical memory and Virtual Memory is managed in a linux operating system.
-*[Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8),---
+* [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8),---
 This video will explain about what is a virtual memory. Indirection between the program's addresses and the RAM addresses. Mapping disk space into memory. Using indirection for program security and isolation.
+#WEEK 06
+* [System Calls](https://www.youtube.com/watch?v=lhToWeuWWfw),---
+This video discusses about what a system call is, user mode, kernel mode, and examples of system calls.
+* [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY),---
+This video will help you understand about fork() and exec() system calls.
+* [Fork() system call tutorial](https://www.youtube.com/watch?v=xVSPv-9x3gk),---
+This video illustrates the basics of fork(). We demonstrate how fork() creates multiple processes that are identified by a pid, how fork returns an integer from each process to help identify if it is the child or parent, how changes or actions in the child do not carry over into the parent, and how zombie processes may be created and prevented.
 <br>
 <hr>
