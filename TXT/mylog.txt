@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 20 L06 Browsing
+ZCZC W07 100 L02 07/11 class
+ZCZC W07 100 L02 09/11 class
+ZCZC W07 60 L17 Assignment #07: Try demos, do pop quiz, run scripts and did the assignment
 ZCZC W06 30 L05 Quiz related including studying
 ZCZC W06 15 L16 Assignment #06: Update and try demos
 ZCZC W06 70 L16 Assignment #06: Run scripts and did the assignment (including pop quizzes)

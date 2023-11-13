@@ -32,6 +32,7 @@ Ever get confused where to find things in Linux and where programs get installed
 This video will help and discuss about how Physical memory and Virtual Memory is managed in a linux operating system.
 * [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8),---
 This video will explain about what is a virtual memory. Indirection between the program's addresses and the RAM addresses. Mapping disk space into memory. Using indirection for program security and isolation.
+
 #WEEK 06
 * [System Calls](https://www.youtube.com/watch?v=lhToWeuWWfw),---
 This video discusses about what a system call is, user mode, kernel mode, and examples of system calls.
@@ -39,5 +40,14 @@ This video discusses about what a system call is, user mode, kernel mode, and ex
 This video will help you understand about fork() and exec() system calls.
 * [Fork() system call tutorial](https://www.youtube.com/watch?v=xVSPv-9x3gk),---
 This video illustrates the basics of fork(). We demonstrate how fork() creates multiple processes that are identified by a pid, how fork returns an integer from each process to help identify if it is the child or parent, how changes or actions in the child do not carry over into the parent, and how zombie processes may be created and prevented.
+
+#WEEK 07
+* [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY),---
+This video discusses the Deadlock concept in Operating Systems in the easiest possible manner with the help of real-world examples. In OS, the Deadlock is basically a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.
+* [What is deadlock | Necessary Conditions | OS | Lec-63 | Bhanu Priya](https://www.youtube.com/watch?v=FVmwvZNQgt0),---
+Introduction to deadlock &  necessary conditions.
+* [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA),---
+Quick explanation of what critical section is. Definition of the critical section problem and properties of a good solution.
+
 <br>
 <hr>
