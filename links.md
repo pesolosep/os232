@@ -49,5 +49,10 @@ Introduction to deadlock &  necessary conditions.
 * [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA),---
 Quick explanation of what critical section is. Definition of the critical section problem and properties of a good solution.
 
+#WEEK 08
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2),---
+This video explains about process synchronization, cooperating processes. brief recap of shared memory systems and producer-consumer problem, and race condition.
+* [The Critical-Section Problem](https://www.youtube.com/watch?v=UtEORPakw5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=2),---
+This video discusses critical section,  the critical-section problem, entry, exit, remainder sections, mutual exclusion, progress, and bounded waiting.
 <br>
 <hr>
