@@ -54,5 +54,13 @@ Quick explanation of what critical section is. Definition of the critical sectio
 This video explains about process synchronization, cooperating processes. brief recap of shared memory systems and producer-consumer problem, and race condition.
 * [The Critical-Section Problem](https://www.youtube.com/watch?v=UtEORPakw5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=2),---
 This video discusses critical section,  the critical-section problem, entry, exit, remainder sections, mutual exclusion, progress, and bounded waiting.
+
+#WEEK 09
+*[READ() | WRITE() | GCC | LINUX | SYSTEM CALLS | DETAILED | 2023](https://www.youtube.com/watch?v=-qbmY6gQYDg),---
+This video is about read() and write() system calls and how its parameter works in the Linux command line using the GCC compiler.
+
+*[read write System Call Program in Linux](https://www.youtube.com/watch?v=DJ_GcdS-rmE),---
+This video discusses about the working of wite() system call and read() system call.  write system call is used to write some data on a file descriptor while read system call is used to read data from a file descriptor.
+
 <br>
 <hr>
